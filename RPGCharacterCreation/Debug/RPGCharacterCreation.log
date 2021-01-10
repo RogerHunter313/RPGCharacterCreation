@@ -1,0 +1,10 @@
+﻿  Mage.cpp
+  main.cpp
+C:\Users\roger\Desktop\C++ developers course Codestars\RPGCharacterCreation\RPGCharacterCreation\main.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  Priest.cpp
+  Warrior.cpp
+  Generating Code...
+C:\Users\roger\Desktop\C++ developers course Codestars\RPGCharacterCreation\RPGCharacterCreation\Player.cpp(34): warning C4715: 'Player::whatRace': not all control paths return a value
+C:\Users\roger\Desktop\C++ developers course Codestars\RPGCharacterCreation\RPGCharacterCreation\main.cpp(133): warning C4715: 'chooseRace': not all control paths return a value
+  RPGCharacterCreation.vcxproj -> C:\Users\roger\Desktop\C++ developers course Codestars\RPGCharacterCreation\Debug\RPGCharacterCreation.exe
